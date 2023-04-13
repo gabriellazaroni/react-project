@@ -14,7 +14,7 @@ export function Comment() {
               <strong>Gabriel Lazaroni</strong>
               <time dateTime="2022-0b  5-11 08:00"></time>
             </div>
-            <button title="Deletar comentario">
+            <button title="Deletar comentaario">
               <Trash size={20} />
             </button>
           </header>
